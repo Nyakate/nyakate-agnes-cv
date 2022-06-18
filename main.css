@@ -1,0 +1,20 @@
+* {
+	letter-spacing: 1.5px;
+	margin: 0;
+}
+
+.body {
+	padding-top: 1rem;
+	padding-left: 0.6rem;
+	background: linear-gradient(rgba(0, 255, 255, 0.2), rgba(0, 255, 255, 0.2)), url("./1cfc134d-6045-4865-81cc-1cc73955cbec.jpg"), center/cover no-repeat;
+}
+
+h1 {
+  text-align: center;
+	background: transparent;
+	font-weight: 900;
+}
+	
+h3 {
+	background: transparent;
+}
